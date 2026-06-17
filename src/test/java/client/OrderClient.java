@@ -28,13 +28,4 @@ public class OrderClient {
                 .when()
                 .get(GET_ORDERS_PATH);      // Выполняем GET запрос
     }
-
-    @Step("Получение track заказа из ответа")
-    public int getOrderTrack(Response response) {
-        // Извлекаем track из ответа при создании заказа
-        return response
-                .then()
-                .extract()
-                .path("track");  // track - идентификатор заказа
-    }
 }
