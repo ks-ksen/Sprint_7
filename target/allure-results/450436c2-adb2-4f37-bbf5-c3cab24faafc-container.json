@@ -1,0 +1,1 @@
+{"uuid":"450436c2-adb2-4f37-bbf5-c3cab24faafc","name":"testCreateCourierWithExistingLogin()","children":["511db347-5295-4c20-9fbf-f974a3d0bae0"],"befores":[],"afters":[{"name":"cleanUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1781547005377,"stop":1781547005449}],"start":1781547002844,"stop":1781547005528}

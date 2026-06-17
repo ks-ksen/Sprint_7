@@ -1,0 +1,1 @@
+{"uuid":"bcc3370a-a42f-4428-8afc-ec76c06d5a6a","name":"testCreateCourierWithoutPassword()","children":["f76d6eeb-99d7-4e0b-9523-31ee25ef1d44"],"befores":[],"afters":[{"name":"cleanUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1781547005945,"stop":1781547005945}],"start":1781547005871,"stop":1781547005946}

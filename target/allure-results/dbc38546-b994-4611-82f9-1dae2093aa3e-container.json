@@ -1,0 +1,1 @@
+{"uuid":"dbc38546-b994-4611-82f9-1dae2093aa3e","name":"GetOrdersListTest","children":["4d42caea-d038-4c90-a021-538d80b9a2c3"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1781547006823,"stop":1781547006826}],"afters":[],"start":1781547006822,"stop":1781547007343}
